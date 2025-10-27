@@ -7,3 +7,6 @@
 [submodule "3rdparty/composable_kernel"]
 	path = 3rdparty/composable_kernel
 	url = https://github.com/ROCm/composable_kernel
+[submodule "3rdparty/flash-linear-attention"]
+	path = 3rdparty/flash-linear-attention
+	url = git@github.com:fla-org/flash-linear-attention.git
